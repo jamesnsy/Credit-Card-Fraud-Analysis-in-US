@@ -1,6 +1,8 @@
 # Tackling Credit Card Fraud in US
 
-Analysing credit card fraud patterns in US. Interactive Tableau storyboard can be found [here](https://public.tableau.com/views/CapstoneProject_NeoSiYang881G/TacklingCreditCardFraudinUS?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
+Analysing credit card fraud patterns in US. Interactive tableau storyboard can be found [here](https://public.tableau.com/views/CapstoneProject_NeoSiYang881G/TacklingCreditCardFraudinUS?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
+
+[Tableau file](https://drive.google.com/file/d/1FVzmFmYQ-NT1fq7-b8dNsTGO0KI_7gEL/view?usp=drive_link)
 
 **Tools:** Excel, Tableau
 
