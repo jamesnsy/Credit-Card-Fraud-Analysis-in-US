@@ -33,6 +33,8 @@ Analysing credit card fraud patterns in US. Interactive Tableau storyboard can b
 2) full name (full name of credit card holders)
 3) outcome (label 1 as fraudulent, 0 as not fraudulent)
 
+Processed data can be found [here](https://docs.google.com/spreadsheets/d/1s1KghazIXfj1ZsM40YOrDh02K0Wos-Ws/edit?usp=drive_link&ouid=110997760581773554407&rtpof=true&sd=true).
+
 ## Summary of Insights:
 - Overall, there are **2145** fraudulent transactions and **$1,133,325** losses in total from Jun to Dec 2020.
 - Both genders show no significant difference in terms of fraud count and amount, indicating equal vulnerability to credit card fraud. Credit card fraud impacts individuals across all age groups, with a majority falling within the Generation **X**, **Y**, and **Baby Boomer** categories, specifically within the age range of **30 to 59** years old.
