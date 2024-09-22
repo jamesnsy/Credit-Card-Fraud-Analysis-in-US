@@ -15,14 +15,7 @@ Analysing credit card fraud patterns in US. Interactive tableau storyboard can b
 - Determine the typical times when credit card fraud incidents commonly occur.
 - Examine what are the risky merchant categories.
 - Propose business recommendations based on previous findings.
-
-## Dataset:
-- The chosen dataset is a simulated credit card transaction dataset that contains both legitimate and fraudulent transactions from June to December 2020.
-- Only the test dataset (fraudTest.csv) is used for the analysis.
-- Contains 555719 rows, 23 fields (columns).
-- Kaggle dataset URL: https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTest.csv
-- Acknowledgement goes to Brandon Harris for the creation of dataset.
-
+  
 ## Data Cleaning/Preparation using Excel:
 - CSV file is converted to Excel file to preserve data format.
 - A column name “index” was added, and this represents the unique identifier for each row.
@@ -48,6 +41,13 @@ Processed data can be found [here](https://docs.google.com/spreadsheets/d/1s1Kgh
 - Conduct regular **educational programs** for customers from age **30-59** to raise awareness about the types of card fraud, possible causes and preventive measures. Such programs not only reduce card fraud occurrence but also allow bank to demonstrate their commitment to customer’s well being. Informed customers are likely to have greater trust in the bank, leading to **increased loyalty and retention**.
 - Bank can encourage shopping merchants, particularly those located in high-fraud regions like the **eastern states** of the USA, to adopt **secure payment methods**. Eg: For online payments, merchants can consider leveraging secure payment gateways, incorporating features such as end-end encryption and tokenization to ensure the secure transfer of online payment data. By doing so, bank indirectly contribute to the reduction of fraudulent transactions. This, consequently, results in **reduced financial losses** pertaining to chargebacks.
 - Consider implementing a **fraud detection system** that utilises artificial intelligence to flag potential fraudulent transactions in real time. This system will automatically block suspicious transactions, regardless of their size. Fraud detection systems should be actively operational during late-night hours from **2200 to 0300** daily. Investing in such systems not only protects customers from credit card fraud, but also demonstrates the bank's commitment to safeguarding its customers' financial interests.
+
+## References:
+- The chosen dataset is a simulated credit card transaction dataset that contains both legitimate and fraudulent transactions from June to December 2020.
+- Only the test dataset (fraudTest.csv) is used for the analysis.
+- Contains 555719 rows, 23 fields (columns).
+- Kaggle dataset URL: https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTest.csv
+- Acknowledgement goes to Brandon Harris for the creation of dataset.
 
 
 
