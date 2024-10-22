@@ -32,10 +32,25 @@ Processed data can be found [here](https://docs.google.com/spreadsheets/d/1s1Kgh
 
 ## Summary of Insights:
 - Overall, there are **2145** fraudulent transactions and **$1,133,325** losses in total from Jun to Dec 2020.
+
+![image](https://github.com/user-attachments/assets/f7526328-fa93-418d-8a5d-aad78a81fbfb)
+
 - Both genders show no significant difference in terms of fraud count and amount, indicating equal vulnerability to credit card fraud. Credit card fraud impacts individuals across all age groups, with a majority falling within the Generation **X**, **Y**, and **Baby Boomer** categories, specifically within the age range of **30 to 59** years old.
+
+![image](https://github.com/user-attachments/assets/faebd92b-5335-47fc-90c6-c31f89c32d2a) 
+![image](https://github.com/user-attachments/assets/c04b59d5-6856-4c54-ac32-19936ab4b780)
+
 - Most fraud incidents occur on the **East Coast (Eg: New York, Pennsylvania)** of the USA, primarily in states characterised by high population density and wealth.
+
+![image](https://github.com/user-attachments/assets/071cae4f-6bbf-4952-a5c3-7c8709e36e6f)
+
 - **Online shopping** recorded the highest fraud count at **506** and the highest average transaction losses at **$994.32**, while **travel** recorded the lowest fraud count at **40** and the lowest average transaction losses at **$8.70**.
+
+![image](https://github.com/user-attachments/assets/fd9e1ed2-d6ea-483c-a44d-3fba7a1ac2cd)
+
 - Fraudulent activities are most prevalent on **Sundays, Tuesdays, and Thursdays**. One noticeable trend is the common occurrence of fraudulent activities during **late-night hours**, specifically from **22:00 to 03:00** throughout the week.
+
+![image](https://github.com/user-attachments/assets/db7f6ed8-0855-4c5f-b3ca-d808bfe65127)
 
 ## Recommendations:
 - Conduct regular **educational programs** for customers from age **30-59** to raise awareness about the types of card fraud, possible causes and preventive measures. Such programs not only reduce card fraud occurrence but also allow bank to demonstrate their commitment to customer’s well being. Informed customers are likely to have greater trust in the bank, leading to **increased loyalty and retention**.
